@@ -8,7 +8,7 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
-import { SiFiverr, SiLeetcode, SiUpwork } from "react-icons/si";
+import { SiFiverr, SiLeetcode, SiLinkedin, SiUpwork } from "react-icons/si";
 
 function HeroSection() {
   return (

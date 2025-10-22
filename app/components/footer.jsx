@@ -14,14 +14,14 @@ function Footer() {
           <p className="text-sm">
             © Developer Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/abu-said-bd/" className="text-[#16f2b3]">Milan Kojadinovic</Link>
           </p>
-          <div className="flex items-center gap-5">
+          <div className="invisible flex items-center gap-5">
             <Link
               target="_blank"
               href="https://github.com/said7388/developer-portfolio"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
-              <span>Star</span>
+              <span></span>
             </Link>
             <Link
               target="_blank"
@@ -29,7 +29,7 @@ function Footer() {
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <CgGitFork />
-              <span>Fork</span>
+              <span></span>
             </Link>
           </div>
         </div>
